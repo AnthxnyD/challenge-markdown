@@ -42,8 +42,10 @@ Tu as besoin d'aide pour te déplacer
 
 ## Funny Story
 
-Un soir d'été de juillet , étant accompagné d'un ami proche , nous étions à la recherche de mon chat dans le jardin afin de pouvoir le rentrer dans la maison pour la nuit , De part le fait qu'il faisait nuit 
+Un soir d'été de juillet , étant accompagné d'un ami proche , nous étions à la recherche de mon chat dans le jardin afin de pouvoir le rentrer dans la maison pour la nuit , De part le fait qu'il faisait nuit , je n'ai pas pu vérifier que c'étais bien mon chat avant de courir après , Une fois lancé a sa poursuite j'ai seulementpu constater que c'etait en fait un renard
 
+## funny story in one short sentence
 
+Une fois j'ai accidentelement courru après un renard croyant que c'étais mon chat domestique
 
 < [Precedent](https://github.com/DanielaCo1/challenge-markdown/blob/main/README.md) | Anthony Denis | [Suivant](https://github.com/VincentDevi/challenge-markdown/blob/main/README.md) >
